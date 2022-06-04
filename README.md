@@ -1,6 +1,5 @@
 ## Olá! Eu sou Lais Marinho 👋
 
-
 - 🔭 Em busca de uma oportunidade como Front-end
 - 🌱 Formanda em A.D.S. 
 - 👯 I’m looking to collaborate com novos desafios 
